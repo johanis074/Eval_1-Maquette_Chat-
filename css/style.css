@@ -1,0 +1,36 @@
+*{ /*Ma permis de changer le font et la couleur sur toute les éléments*/
+    font-family: "Shadows Into Light", cursive; 
+    font-weight: 400;
+    font-style: normal;
+    color: #fff;
+    margin: 0;
+}
+.container{ /*Me permet de mettre en page*/
+    margin: 5% 20%;
+    background-color: #29347B;
+}
+h1{ /*Me permet de déplacer le h1*/
+    font-size: 4em;
+    font-weight: bold;
+    text-align: center;
+    padding: 0 35%;
+}
+
+section{ /*Me permet de déplacer la section*/
+    
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-evenly;
+}
+article{ /*Me permet de déplacer les différent élément de mon article*/
+    padding: 2% 5%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+img{ /*Me permet de modifié la taille de l'image*/
+    width: 50%;
+}
+
