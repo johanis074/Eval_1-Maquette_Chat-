@@ -23,7 +23,7 @@ section{ /*Me permet de déplacer la section*/
     justify-content:space-evenly;
 }
 article{ /*Me permet de déplacer les différent élément de mon article*/
-    padding: 2% 5%;
+    padding: 2% 6%;
     display: flex;
     flex-direction: column;
     justify-content: center;
