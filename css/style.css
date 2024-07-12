@@ -6,7 +6,7 @@
     margin: 0;
 }
 .container{ /*Me permet de mettre en page*/
-    margin: 5% 20%;
+    margin: 0.5% 20%;
     background-color: #29347B;
 }
 h1{ /*Me permet de déplacer le h1*/
@@ -31,6 +31,6 @@ article{ /*Me permet de déplacer les différent élément de mon article*/
 }
 
 img{ /*Me permet de modifié la taille de l'image*/
-    width: 50%;
+    width: 90%;
 }
 
